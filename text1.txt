@@ -3,4 +3,3 @@ Some text for V.1.0.0.2
 Some text for V.1.1.0 changed in release
 Some text for V.1.1.1
 =========================
-after last line
